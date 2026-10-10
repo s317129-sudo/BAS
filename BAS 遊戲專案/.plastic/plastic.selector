@@ -1,0 +1,4 @@
+repository "BAS 遊戲專案/BAS 遊戲專案@33264259725184@cloud"
+  path "/"
+    br "/main"
+    co "/main"
